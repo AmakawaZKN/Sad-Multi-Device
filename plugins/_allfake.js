@@ -200,18 +200,18 @@ export default handler
 
 function ucapan() {
     const time = moment.tz('Asia/Jakarta').format('HH')
-    let res = "Selamat malam 🌙"
+    let res = "Baka!! Tidur udah malam💤"
     if (time >= 4) {
-        res = "Selamat pagi 🌄"
+        res = "Ohayouu 🌄"
     }
     if (time > 10) {
-        res = "Selamat siang ☀️"
+        res = "Kon'nichiwa 🌤️"
     }
     if (time >= 15) {
-        res = "Selamat sore 🌅"
+        res = "Kon'nichiwa 🌅"
     }
     if (time >= 18) {
-        res = "Selamat malam 🌙"
+        res = "Konbanwa 🌌"
     }
     return res
 }
