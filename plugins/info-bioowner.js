@@ -4,7 +4,6 @@ let teksbio = `*───────[ BIODATA OWNER ]───────*
 *💌 Nama* : Jiikuan
 *✉️ Nama RL* : Zykuan
 *♂️ Gender* : Laki - laki
-*🕋 Agama* : Islam
 *⏰ Tanggal lahir* : 03 Desember 2007
 *🎨 Umur* : 15
 *🧩 Hobby* : Nonton Animek, Game, Tiktokan,
